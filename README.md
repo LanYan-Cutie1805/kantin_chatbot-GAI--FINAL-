@@ -16,3 +16,8 @@ This is the **second chatbot** in the Kantin P Chatbot series, designed to help 
   - Powered by **Llama 3.2 Vision** via [Ollama](https://ollama.com)
   - Uses **FastEmbed** for embeddings
   - Menu data is loaded from a **CSV file**, not a database
+ 
+HOW TO RUN
+1. Install the library on requirements.txt
+2. You need a Qdrant API and Link
+3. run the python file
