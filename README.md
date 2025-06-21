@@ -20,4 +20,5 @@ This is the **second chatbot** in the Kantin P Chatbot series, designed to help 
 HOW TO RUN
 1. Install the library on requirements.txt
 2. You need a Qdrant API and Link
-3. run the python file
+3. Extract the images on the images folder
+4. run the python file
