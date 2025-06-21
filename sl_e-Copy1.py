@@ -29,8 +29,8 @@ nest_asyncio.apply()
 def chatbot_kantin():
     # Initialize Qdrant Client
     from qdrant_client import QdrantClient
-    QDRANT_URL = "https://7ff22f01-3bd7-4e11-bb42-6be1df97b997.europe-west3-0.gcp.cloud.qdrant.io"
-    QDRANT_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.t5yuSBkfeq9p2EnZcTK2zMrTYqjz3ga8L9qbuhmcoIE"
+    QDRANT_URL = "INSERT_HERE"
+    QDRANT_API_KEY = "INSERT_HERE"
     
     
     qdrant_client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY)
